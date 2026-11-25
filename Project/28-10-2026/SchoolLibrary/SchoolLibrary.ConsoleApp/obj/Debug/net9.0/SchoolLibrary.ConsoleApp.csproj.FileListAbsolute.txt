@@ -1,0 +1,60 @@
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.ConsoleApp\bin\Debug\net9.0\SchoolLibrary.ConsoleApp.exe
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.ConsoleApp\bin\Debug\net9.0\SchoolLibrary.ConsoleApp.deps.json
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.ConsoleApp\bin\Debug\net9.0\SchoolLibrary.ConsoleApp.runtimeconfig.json
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.ConsoleApp\bin\Debug\net9.0\SchoolLibrary.ConsoleApp.dll
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.ConsoleApp\bin\Debug\net9.0\SchoolLibrary.ConsoleApp.pdb
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.ConsoleApp\bin\Debug\net9.0\SchoolLibrary.Data.dll
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.ConsoleApp\bin\Debug\net9.0\SchoolLibrary.Services.dll
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.ConsoleApp\bin\Debug\net9.0\SchoolLibrary.Services.pdb
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.ConsoleApp\bin\Debug\net9.0\SchoolLibrary.Data.pdb
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\SchoolLibrary.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\SchoolLibrary.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\SchoolLibrary.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\SchoolLibrary.ConsoleApp.AssemblyInfo.cs
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\SchoolLibrary.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\SchoolLi.FBA125D1.Up2Date
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\SchoolLibrary.ConsoleApp.dll
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\refint\SchoolLibrary.ConsoleApp.dll
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\SchoolLibrary.ConsoleApp.pdb
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\SchoolLibrary.ConsoleApp.genruntimeconfig.cache
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\ref\SchoolLibrary.ConsoleApp.dll
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.ConsoleApp\bin\Debug\net9.0\SchoolLibrary.ConsoleApp.exe
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.ConsoleApp\bin\Debug\net9.0\SchoolLibrary.ConsoleApp.deps.json
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.ConsoleApp\bin\Debug\net9.0\SchoolLibrary.ConsoleApp.runtimeconfig.json
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.ConsoleApp\bin\Debug\net9.0\SchoolLibrary.ConsoleApp.dll
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.ConsoleApp\bin\Debug\net9.0\SchoolLibrary.ConsoleApp.pdb
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.ConsoleApp\bin\Debug\net9.0\SchoolLibrary.Data.dll
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.ConsoleApp\bin\Debug\net9.0\SchoolLibrary.Services.dll
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.ConsoleApp\bin\Debug\net9.0\SchoolLibrary.Services.pdb
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.ConsoleApp\bin\Debug\net9.0\SchoolLibrary.Data.pdb
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\SchoolLibrary.ConsoleApp.csproj.AssemblyReference.cache
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\SchoolLibrary.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\SchoolLibrary.ConsoleApp.AssemblyInfoInputs.cache
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\SchoolLibrary.ConsoleApp.AssemblyInfo.cs
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\SchoolLibrary.ConsoleApp.csproj.CoreCompileInputs.cache
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\SchoolLibrary.ConsoleApp.sourcelink.json
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\SchoolLi.FBA125D1.Up2Date
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\SchoolLibrary.ConsoleApp.dll
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\refint\SchoolLibrary.ConsoleApp.dll
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\SchoolLibrary.ConsoleApp.pdb
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\SchoolLibrary.ConsoleApp.genruntimeconfig.cache
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\ref\SchoolLibrary.ConsoleApp.dll
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.ConsoleApp\bin\Debug\net9.0\SchoolLibrary.ConsoleApp.deps.json
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.ConsoleApp\bin\Debug\net9.0\SchoolLibrary.ConsoleApp.runtimeconfig.json
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.ConsoleApp\bin\Debug\net9.0\SchoolLibrary.ConsoleApp.dll
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.ConsoleApp\bin\Debug\net9.0\SchoolLibrary.ConsoleApp.pdb
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.ConsoleApp\bin\Debug\net9.0\SchoolLibrary.Data.dll
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.ConsoleApp\bin\Debug\net9.0\SchoolLibrary.Services.dll
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.ConsoleApp\bin\Debug\net9.0\SchoolLibrary.Services.pdb
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.ConsoleApp\bin\Debug\net9.0\SchoolLibrary.Data.pdb
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\SchoolLibrary.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\SchoolLibrary.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\SchoolLibrary.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\SchoolLibrary.ConsoleApp.AssemblyInfo.cs
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\SchoolLibrary.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\SchoolLi.FBA125D1.Up2Date
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\SchoolLibrary.ConsoleApp.dll
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\refint\SchoolLibrary.ConsoleApp.dll
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\SchoolLibrary.ConsoleApp.pdb
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\SchoolLibrary.ConsoleApp.genruntimeconfig.cache
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.ConsoleApp\obj\Debug\net9.0\ref\SchoolLibrary.ConsoleApp.dll
